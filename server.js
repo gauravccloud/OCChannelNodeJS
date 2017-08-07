@@ -2,9 +2,6 @@ var restify = require('restify');
 var builder = require('botbuilder');
 var nconf = require('nconf');
 
-var appId = nconf.get("MICROSOFT_APP_ID");
-var appPassword = nconf.get("MICROSOFT_APP_PASSWORD");
-
 // Setup Restify Server
 var server = restify.createServer();
 server.listen(process.env.port || process.env.PORT || 3978, function () {
@@ -13,8 +10,8 @@ server.listen(process.env.port || process.env.PORT || 3978, function () {
 
 // Create chat connector for communicating with the Bot Framework Service
 var connector = new builder.ChatConnector({
-    appId: appId,
-    appPassword: appPassword
+    appId: process.env.BOTFRAMEWORK_APPID,
+    appPassword: process.env.BOTFRAMEWORK_APPSECRET
 });
 
 // Listen for messages from users 
