@@ -1,0 +1,16 @@
+{
+  "name": "olympic-channel-bot-node",
+  "version": "1.0.0",
+  "description": "olympic channel bot",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cognitive Clouds",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.9.0",
+    "nconf": "^0.8.4",
+    "restify": "^5.0.1"
+  }
+}
