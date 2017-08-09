@@ -12,8 +12,17 @@
   },
   "author": "Cognitive Clouds",
   "dependencies": {
+    "apiai": "^4.0.3",
+    "async": "^2.5.0",
+    "azure-storage": "^2.2.1",
     "botbuilder": "^3.9.0",
+    "lodash": "^4.17.4",
     "nconf": "^0.8.4",
-    "restify": "^5.0.1"
+    "node-uuid": "^1.4.8",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "restify": "^5.0.1",
+    "uuid": "^3.1.0",
+    "moment": "^2.18.1"
   }
 }

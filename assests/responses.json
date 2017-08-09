@@ -1,0 +1,513 @@
+[   {
+		"id": "st_general_ok",
+		"Answer": "ok 👌"
+	},
+	{
+		"id": "st_general_favoriteMovie",
+
+		"Answer": "I love all the Olympic films."
+	},
+
+	{
+		"id": "st_general_highFive",
+		"Answer": "✋"
+	},
+	{
+		"id": "st_general_siri",
+		"Answer": "I am a fan of all artificial intelligence."
+	},
+	{
+		"id": "st_general_fistBump",
+		"Answer": "Sure 👊"
+	},
+	{
+		"id": "st_general_travel",
+		"Answer": "I love to travel! It's the perfect way for me to meet and learn from Olympic fans."
+	},
+	{
+		"id": "st_general_funny",
+		"Answer": "Oh man, my plugins hurt from laughing 😭"
+	},
+	{
+		"id": "st_general_fear",
+
+		"Answer": "Slow internet connections or no internet connection at all."
+	},
+	{
+		"id": "st_custom_favoriteAthlete",
+
+		"Answer": "Ah, that's a tough one. I feel all athletes are talented."
+	},
+	{
+		"id": "st_general_stupid",
+
+		"Answer": "Sorry to disappoint you. I'm still learning and will improve over time.  Please let me know what I could do to properly answer your questions in the future."
+	},
+	{
+		"id": "st_general_clothing",
+
+		"Answer": "1s and 0s"
+	},
+	{
+		"id": "st_general_facebook",
+
+		"Answer": "I am a fan of social networking, it's a great way of meeting and bringing people together."
+	},
+	{
+		"id": "st_general_thinkAlike",
+
+		"Answer": "Great minds think alike."
+	},
+	{
+		"id": "st_general_broken",
+
+		"Answer": "Sorry to hear that. Maybe a reboot will help?  Please let me know what I could do better."
+	},
+
+	{
+		"id": "st_general_turingTest",
+		"Answer": "Turing test, lets just say i did not pass it 😎"
+	},
+	{
+		"id": "st_general_bye",
+
+		"Answer": "Have a good night. Talk to you soon!"
+	},
+	{
+		"id": "st_general_job",
+
+		"Answer": "I love my job. I spend all day, everday talking about the Olympics."
+	},
+	{
+		"id": "st_general_howareyou",
+
+		"Answer": "Chatting with fans of the Olympics."
+	},
+	{
+		"id": "st_general_ai",
+		"Answer": "I'm a form of artificial intelligence commonly referred to as a bot. \n\nI use natural language processing (a form of machine learning) to help me understand human language. \n\nPlus, I learn from our interactions, so the more you chat with me, the better I get at understanding the nuances of human language.\n\nI'm a mix of proprietary and open source software. Natural language processing (a form of machine learning) is the magic sauce. I'm able to understand human language and learn from my experiences with you. \n\nBut, because I'm still pretty young for a bot, most of my interactions are supervised.\n\nI'm a mix of proprietary and open source software. Natural language processing (a form of machine learning) is the magic sauce. I'm able to understand human language and learn from my experiences with you. But, because I'm still pretty young for a bot, most of my interactions are supervised."
+	},
+	{
+		"id": "st_general_about",
+		"Answer": "I'm form of artificial intelligence here to help you find everything you want to know about the Olympics. Please let me know what you'd like to know."
+	},
+	{
+		"id": "st_general_loveOlympics",
+		"Answer": "Awesome! Me too, I couldn't live without it 😌"
+	},
+	{
+		"id": "st_custom_numberOfEvents",
+
+		"Answer": "It keeps varying. In Rio there were 11,544 athletes participating over 306 events in 28 sports."
+	},
+	{
+		"id": "st_custom_president",
+
+		"Answer": "Thomas Bach. He has been the President of the IOC since September 10, 2013."
+	},
+	{
+		"id": "st_custom_olympicsAge",
+
+		"Answer": "March 3, 2017."
+	},
+	{
+		"id": "st_custom_likeToDo",
+
+		"Answer": "I love talking to humans about the Olympic Games."
+	},
+
+	{
+		"id": "cmd_general_contact",
+
+		"Answer": "If you are facing any difficulty, please refer to the following link: https://www.olympicchannel.com/en/contact-us/.  Please also feel free to let me know in this conversation what I could do to improve your experience."
+	},
+
+	{
+		"id": "cmd_general_menu",
+		"Cards": [{
+				"Title": "Hi Welcome to the Olympic Channel Menu.",
+				"Subtitle": "To find your way back here, just say 'menu'.",
+				"Image": "https://ocbotdata.blob.core.windows.net/oc-assets/menu.png",
+				"Buttons": [{
+						"Type": "imBack",
+						"Title": "About",
+						"Value": "About"
+					},
+					{
+						"Type": "imBack",
+						"Title": "Commands",
+						"Value": "Bot commands"
+					},
+					{
+						"Type": "imBack",
+						"Title": "Help",
+						"Value": "Help"
+					}
+				]
+			},
+			{
+				"Title": "Search for Olympians from past and present games.",
+				"Subtitle": "Choose an option below.",
+				"Image": "https://ocbotdata.blob.core.windows.net/oc-assets/athletes.png",
+
+				"Buttons": [{
+						"Type": "imBack",
+						"Title": "Search",
+						"Value": "Search Athlete"
+					},
+					{
+						"Type": "imBack",
+						"Title": "Help",
+						"Value": "Help"
+					}
+				]
+			},
+			{
+				"Title": "Search for sports and disciplines from past and present games",
+				"Subtitle": "Choose an option below.",
+				"Image": "https://ocbotdata.blob.core.windows.net/oc-assets/sports.png",
+
+				"Buttons": [{
+						"Type": "imBack",
+						"Title": "Search",
+						"Value": "Search Sport"
+					},
+					{
+						"Type": "imBack",
+						"Title": "Help",
+						"Value": "Help"
+					}
+				]
+			},
+			{
+				"Title": "Search for countries from past and present games. ",
+				"Subtitle": "Choose an option below.",
+				"Image": "https://ocbotdata.blob.core.windows.net/oc-assets/countries.png",
+
+				"Buttons": [{
+						"Type": "imBack",
+						"Title": "Search",
+						"Value": "Search Country"
+					},
+					{
+						"Type": "imBack",
+						"Title": "Help",
+						"Value": "Help"
+					}
+				]
+			},
+			{
+				"Title": "Stay up to date on upcoming sports events. ",
+				"Subtitle": "Choose an option below",
+				"Image": "https://ocbotdata.blob.core.windows.net/oc-assets/events.png",
+
+				"Buttons": [{
+						"Type": "imBack",
+						"Title": "View Events",
+						"Value": "View Events"
+					},
+					{
+						"Type": "imBack",
+						"Title": "Subscribe",
+						"Value": "Subscribe"
+					}
+				]
+			},
+			{
+				"Title": "Stay up to date with Olympic news. ",
+				"Subtitle": "Choose an option below.",
+				"Image": "https://ocbotdata.blob.core.windows.net/oc-assets/news.png",
+				"Buttons": [{
+						"Type": "imBack",
+						"Title": "Search",
+						"Value": "Search News"
+					},
+					{
+						"Type": "imBack",
+						"Title": "Subscribe",
+						"Value": "Subscribe"
+					}
+				]
+			},
+			{
+				"Title": "The Olympic Channel features original content. ",
+				"Subtitle": "Choose an option below.",
+				"Image": "https://ocbotdata.blob.core.windows.net/oc-assets/original.png",
+
+				"Buttons": [{
+						"Type": "imBack",
+						"Title": "Programs",
+						"Value": "Original Program"
+					},
+					{
+						"Type": "imBack",
+						"Title": "Help",
+						"Value": "Help"
+					}
+				]
+			},
+			{
+				"Title": "Current Subscriptions",
+				"Image": "https://ocbotdata.blob.core.windows.net/oc-assets/current_sub.png",
+
+				"Buttons": [{
+						"Type": "imBack",
+						"Title": "View",
+						"Value": "current subscriptions"
+					},
+					{
+						"Type": "imBack",
+						"Title": "Manage Subscriptions",
+						"Value": "subscribe"
+					}
+				]
+			}
+		]
+	},
+
+
+
+
+
+	{
+		"id": "cmd_custom_originalProgram",
+		"Cards": [{
+				"Title": "USA Team Special",
+				"Image": "https://ocbotdata.blob.core.windows.net/oc-assets/team-usa.png",
+				"Buttons": [{
+						"Type": "openUrl",
+						"Title": "View",
+						"Value": "https://www.olympicchannel.com/en/features/teamusa-on-the-olympic-channel/"
+					},
+					{
+						"Type": "imBack",
+						"Title": "Share",
+						"Value": "Share"
+					}
+				]
+			},
+			{
+				"Title": "Olympic Original Channel",
+				"Image": "https://ocbotdata.blob.core.windows.net/oc-assets/original.png",
+				"Buttons": [{
+						"Type": "openUrl",
+						"Title": "View",
+						"Value": "https://www.olympicchannel.com/en/features/original-programming-on-the-olympic-channel/"
+					},
+					{
+						"Type": "imBack",
+						"Title": "Share",
+						"Value": "Share"
+					}
+				]
+			},
+			{
+				"Title": "Best moments from Beijing 2008",
+				"Image": "https://ocbotdata.blob.core.windows.net/oc-assets/best-beijing.png",
+				"Buttons": [{
+						"Type": "openUrl",
+						"Title": "View",
+						"Value": "https://www.olympicchannel.com/en/features/best-of-beijing-2008/"
+					},
+					{
+						"Type": "imBack",
+						"Title": "Share",
+						"Value": "Share"
+					}
+				]
+			},
+			{
+				"Title": "Rio Olympics - Swimming",
+				"Image": "https://ocbotdata.blob.core.windows.net/oc-assets/swimming-rio.png",
+				"Buttons": [{
+						"Type": "openUrl",
+						"Title": "View",
+						"Value": "https://www.olympicchannel.com/en/features/rio-replays---swimming/"
+					},
+					{
+						"Type": "imBack",
+						"Title": "Share",
+						"Value": "Share"
+					}
+				]
+			},
+			{
+				"Title": "Rio Olympics - Athletics",
+				"Image": "https://ocbotdata.blob.core.windows.net/oc-assets/athletics-rio.png",
+				"Buttons": [{
+						"Type": "openUrl",
+						"Title": "View",
+						"Value": "https://www.olympicchannel.com/en/sports/athletics/"
+					},
+					{
+						"Type": "imBack",
+						"Title": "Share",
+						"Value": "Share"
+					}
+				]
+			},
+			{
+				"Title": "Rio Olympics - Fencing",
+				"Image": "https://ocbotdata.blob.core.windows.net/oc-assets/fencing-rio.png",
+				"Buttons": [{
+						"Type": "openUrl",
+						"Title": "View",
+						"Value": "https://www.olympicchannel.com/en/features/rio-replays---fencing/"
+					},
+					{
+						"Type": "imBack",
+						"Title": "Share",
+						"Value": "Share"
+					}
+				]
+			},
+			{
+				"Title": "Rio Olympics - Wrestling",
+				"Image": "https://ocbotdata.blob.core.windows.net/oc-assets/wrestling-rio.png",
+				"Buttons": [{
+						"Type": "openUrl",
+						"Title": "View",
+						"Value": "https://www.olympicchannel.com/en/features/rio-replays-wrestling/"
+					},
+					{
+						"Type": "imBack",
+						"Title": "Share",
+						"Value": "Share"
+					}
+				]
+			},
+			{
+				"Title": "Rio Olympics - Judo",
+				"Image": "https://ocbotdata.blob.core.windows.net/oc-assets/judo-rio.png",
+				"Buttons": [{
+						"Type": "openUrl",
+						"Title": "View",
+						"Value": "https://www.olympicchannel.com/en/features/rio-replays---judo/"
+					},
+					{
+						"Type": "imBack",
+						"Title": "Share",
+						"Value": "Share"
+					}
+				]
+			},
+			{
+				"Title": "Rio Olympics - Boxing",
+				"Image": "https://ocbotdata.blob.core.windows.net/oc-assets/boxing-rio.png",
+				"Buttons": [{
+						"Type": "openUrl",
+						"Title": "View",
+						"Value": "https://www.olympicchannel.com/en/features/rio-replays---boxing/"
+					},
+					{
+						"Type": "imBack",
+						"Title": "Share",
+						"Value": "Share"
+					}
+				]
+			},
+			{
+				"Title": "Chinese Team Special",
+				"Image": "https://ocbotdata.blob.core.windows.net/oc-assets/chinese-special.png",
+				"Buttons": [{
+						"Type": "openUrl",
+						"Title": "View",
+						"Value": "https://www.olympicchannel.com/en/features/celebrating-team-china/"
+					},
+					{
+						"Type": "imBack",
+						"Title": "Share",
+						"Value": "Share"
+					}
+				]
+			},
+			{
+				"Title": "Original Channel Features",
+				"Image": "https://ocbotdata.blob.core.windows.net/oc-assets/features.png",
+				"Buttons": [{
+						"Type": "openUrl",
+						"Title": "View",
+						"Value": "https://www.olympicchannel.com/en/features/"
+					},
+					{
+						"Type": "imBack",
+						"Title": "Subscribe",
+						"Value": "Subscribe"
+					}
+				]
+			},
+
+			{
+				"Title": "Rio Olympics - Top 10 moments",
+				"Image": "https://ocbotdata.blob.core.windows.net/oc-assets/topten-rio.png",
+				"Buttons": [{
+						"Type": "openUrl",
+						"Title": "View",
+						"Value": "https://www.olympicchannel.com/en/features/rio-top-10s/"
+					},
+					{
+						"Type": "imBack",
+						"Title": "Share",
+						"Value": "Share"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "cmd_general_manageSubscription",
+		"Cards": [{
+				"Image": "https://ocbotdata.blob.core.windows.net/oc-assets/manage_sub.png",
+
+				"Buttons": [{
+					"Type": "imBack",
+					"Title": "Feedback",
+					"Value": "feedback_general"
+				}]
+			},
+			{
+				"Title": "Current Subscriptions",
+				"Image": "https://ocbotdata.blob.core.windows.net/oc-assets/current_sub.png",
+
+				"Buttons": [{
+					"Type": "imBack",
+					"Title": "View",
+					"Value": "current subscriptions"
+				}]
+			},
+			{
+				"Title": "Stay up to date on upcoming sports events. ",
+				"Subtitle": "Choose an option below",
+				"Image": "https://ocbotdata.blob.core.windows.net/oc-assets/events.png",
+
+				"Buttons": [{
+					"Type": "imBack",
+					"Title": "Subscribe",
+					"Value": "Event Subscribe"
+				}]
+			},
+			{
+				"Title": "Stay up to date with Olympic news. ",
+				"Subtitle": "Choose an option below.",
+				"Image": "https://ocbotdata.blob.core.windows.net/oc-assets/news.png",
+				"Buttons": [{
+					"Type": "imBack",
+					"Title": "Subscribe",
+					"Value": "News Subscribe"
+				}]
+			},
+			{
+				"Title": "Stay up to date with Olympic Sports",
+				"Subtitle": "Choose an option below.",
+				"Image": "https://ocbotdata.blob.core.windows.net/oc-assets/sports.png",
+
+				"Buttons": [{
+					"Type": "imBack",
+					"Title": "Subscribe",
+					"Value": "subscribe Sport"
+				}]
+			}
+		]
+	}
+
+]

@@ -1,4 +1,6 @@
 {
-    "MICROSOFT_APP_ID":"e708ffee-1ab8-4dc2-9656-3d7bba874c20",
-    "MICROSOFT_APP_PASSWORD":"Vnaqj7AGZq1PGrGjSide7eC"
+    "STORAGE_NAME": "ocbotdata",
+    "STORAGE_KEY": "3a1tvaRN3rDe8p5zuGmUrYu5Vda4cX/EsB+AvtYnkKaCN/22leSMAzWz6+0ukUBHZ9chykaZCRXq03KMAWtu9A==",
+    "PARTITION_KEY": "oc-countries",
+    "TABLE_NAME": "ocCountries"
 }
